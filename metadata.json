@@ -1,0 +1,8 @@
+{
+  "name": "Crowd Monitor - Zone Occupancy & Crowd Review System",
+  "description": "Decision-support prototype for camera-based zone crowd counting, dual-model density estimation, safety review alerts, and control room escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
